@@ -9,7 +9,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+The app does use third party services that may collect information used to identify you.
+we are use data with in app and organization only
+we are use camera access for expense bills,form attcachment upload to our own server
+we are use file access for expense bills,form attachment upload to our own server
+we are use location for attendance purpose only. its find our employee work with in project or not
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
@@ -18,6 +22,8 @@ This Services does not uses these “cookies” explicitly. However, the app may
 
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+We are use location information attendance login and Logout time only.otherwise not use location information
+PESCO INT collects location data to enable attendance entry tracking even when the app is closed or not in use and is also used to support manage our employee.
 
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
